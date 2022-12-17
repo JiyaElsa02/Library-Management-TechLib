@@ -60,7 +60,7 @@
 
 <body>
 <div class="header">
-  <a href="#default" class="logo">TechLib</a>
+  <a class="logo">TechLib</a>
   <div class="header-right">
     <a href="book.php"><u>Books</a>
     <a href="login.php"><u>Login</a>
